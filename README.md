@@ -10,3 +10,4 @@ Music recommender system suggests songs based on a user's age and gender. This p
 - Pandas for dataset
 - Sciket-learn for different outputs
 - Python as a programming language
+- Joblib for saving and loading the model
