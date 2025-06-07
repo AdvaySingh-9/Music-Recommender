@@ -6,8 +6,11 @@ Music recommender system suggests songs based on a user's age and gender. This p
 
 # Technologies Used
 
-- Jupyter Notebook (.ipynb) for coding
-- Pandas for dataset
-- Sciket-learn for different processing and outputs 
-- Python as a programming language
-- Joblib for saving and loading the model
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) (.ipynb) for coding
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) for dataset
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) for different processing and outputs 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) as a programming language
+![Joblib](https://img.shields.io/badge/Joblib-003B57?logo=files&logoColor=white) for saving and loading the model
+
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
